@@ -1,6 +1,6 @@
 # NikaChatPDF
 
-#How to run
+# How to run
 
 1)Git clone repo into local device
 <br> 2)Cd into chatbot directory
